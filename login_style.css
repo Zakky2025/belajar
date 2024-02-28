@@ -1,0 +1,35 @@
+body{
+font-family: sans-serif;
+background-color: #d5f0f3;
+}
+div{
+    width: 350px;
+    background-color: white;
+    margin: 80px auto;
+    padding: 30px 20px;
+    border-radius: 10px
+    ;
+} 
+form {
+    overflow: hidden;
+    border: 1px solid;
+    padding: 1em;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+form input{
+    margin-bottom: 1rem;
+    border: 1px solid #9c9c9c;
+    box-sizing: border-box;
+}
+input{
+ width: 100%;   
+}
+.tulisan-login{
+    text-align: center;
+    text-transform: uppercase;
+}
+.loginbtn{
+    background-color: lawngreen;
+}
